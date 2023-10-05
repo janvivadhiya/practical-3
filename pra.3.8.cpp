@@ -32,8 +32,8 @@
  }
  int main()
  {
- 	cout<<"sumra tanya"<<endl;
- 	cout<<"220130318009"<<endl;
+ 	cout<<"vadhiya janvi"<<endl;
+ 	cout<<"220130318031"<<endl;
  	
     account a1;
  	
